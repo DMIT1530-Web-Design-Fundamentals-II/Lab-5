@@ -18,8 +18,6 @@ This website will be for a fictitious chocolatier. It will include:
 
 - a fully-styled footer
 
-As scroll effects are a new topic, you will work through this lab with your instructor, using notes and other readily available resources.
-
 ---
 
 ## Build Methodology 
@@ -30,11 +28,9 @@ As scroll effects are a new topic, you will work through this lab with your inst
 
 3. After your HTML is written, make sure that it's valid.
 
-4. Using a mobile-first approach, follow your instructor's lead in styling this layout. 
+4. Using a mobile-first approach
 
 --- 
-
-## On Your Own
 
 Take a look at the cards in the horizontal scroll wrapper. Because the copy for each of them is a slightly different length, the buttons aren't aligned very neatly. Instead of appearing at the same place on every card (at the bottom), they are staggered or ragged. 
 
